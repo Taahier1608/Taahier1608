@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taahier1608
 - 👀 I’m interested in ...SOftware Developer role
-- 🌱 I’m currently learning ...JAVA full stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...AWS Cloud
+- 💞️ I’m looking to collaborate on Java and AWS based technologies...
 - 📫 How to reach me ...
 
 <!---
